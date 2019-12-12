@@ -1,0 +1,14 @@
+uuid: 55db5e77-f1b3-46f8-a395-06463036e74d
+name: rpantheon-d8-composer-project
+mail: 58061866+rakhimitro@users.noreply.github.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
